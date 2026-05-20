@@ -44,3 +44,9 @@ Removing the mod from an existing save file is not supported, as the save file m
 ## Note on AI Support
 
 Parts of this mod were developed with the support of ChatGPT / GPT-5.5 Thinking from OpenAI.  
+
+## License
+
+This mod is licensed under the Captain of Industry Open License (COI-Open) 1.0.
+
+See the `LICENSE` file for details.
