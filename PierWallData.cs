@@ -32,7 +32,7 @@ internal sealed class PierWallData : IModData
     #endregion
 
     #region Registration
-    public void RegisterData(ProtoRegistrator registrator)
+    public void RegisterData(ProtoRegistrator registrator) 
     {
         ProtosDb prototypesDb = registrator.PrototypesDb;
         ImmutableArray<ToolbarEntryData> terraformCategories =
