@@ -4,7 +4,7 @@ CAP Pier Wall
 A mod for "Captain of Industry" that adds retaining walls that can be placed
 in the ocean.
 
-Tested up to: 0.8.4b
+Tested up to: 0.8.6a
 
 
 Features
