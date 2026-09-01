@@ -7,6 +7,7 @@
 #region Usings
 using Mafi.Base;
 using Mafi.Core.Entities.Static;
+using Mafi.Core.Entities.Static.Layout;
 using ResearchNodeId = Mafi.Core.Research.ResearchNodeProto.ID;
 #endregion
 
@@ -14,6 +15,9 @@ namespace PierWallMod;
 
 internal static class PierWallIds
 {
+    #region Category IDs
+    public static readonly ToolbarCategoryProto.ID PierWallCategory = new("PierWall");
+    #endregion
     #region Building IDs
     public static readonly StaticEntityProto.ID Straight1 = new("PierWallStraight1");
     public static readonly StaticEntityProto.ID Straight4 = new("PierWallStraight4");
