@@ -13,7 +13,7 @@ A mod for "Captain of Industry" that adds retaining walls that can be placed in 
 	- GetCategory:                Gets the value of the mod-specific category setting.
 - Add Config
     - CollisionHeightOffset:      Specifies the height offset for the pier walls. Default is 0.
-    - SortInCategory:             Specifies whether the buildings should be assigned to a mod-specific category. Default is true.
+    - SortInCategory:             Specifies whether the buildings should be assigned to a mod-specific category. Default is false.
 
 ## How to Build over PierWalls
 
